@@ -2,7 +2,7 @@
   "name": "javascript-review",
   "version": "1.0.0",
   "description": "Sample JavaScript project for reviewing OOP and 000 concepts",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
     "start": "node src/index.js",
